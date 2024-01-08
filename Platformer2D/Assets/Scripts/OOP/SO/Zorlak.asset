@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d2469413422efc488a923aefcc08245, type: 3}
+  m_Name: Zorlak
+  m_EditorClassIdentifier: 
+  enemyName: Zorlak
+  speed: 5
+  life: 50
+  image: {fileID: -2413806693520163455, guid: 98dbe797b52462b46b72edb77f2b2b18, type: 3}
